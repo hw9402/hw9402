@@ -17,10 +17,12 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ### 💡 Interest <br><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-0D5E84?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hw9402&show_icons=true&theme=radical)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhw9402)](https://solved.ac/mhw9402)
