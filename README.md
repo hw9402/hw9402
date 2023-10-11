@@ -1,5 +1,6 @@
-<h1>Hi there 👋👋</h1>
-<h2>💡 & 📚</h2>
+<h1>안녕하세요! 👋👋</h1>
+<h3>백엔드 개발자 지망생 <a href="https://hyeonw06.notion.site/Portfolio-7ad58e085a724c47aa5f41c07baf6c3b?pvs=4" target="_blank">마현우</a>입니다.</h3>
+<!-- <h2>💡 & 📚</h2>
 
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -14,4 +15,4 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" />
-<div>
+<div> -->
