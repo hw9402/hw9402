@@ -1,5 +1,6 @@
 <h1>안녕하세요! 👋👋</h1>
-<h3>백엔드 개발자 지망생 <a href="https://hyeonw06.notion.site/Portfolio-7ad58e085a724c47aa5f41c07baf6c3b?pvs=4" target="_blank">마현우</a>입니다.</h3>
+<h3>백엔드 개발자 지망생 마현우입니다.</h3>
+<a href="https://hyeonw06.notion.site/Portfolio-7ad58e085a724c47aa5f41c07baf6c3b?pvs=4" target="_blank">portfolio</a>
 <!-- <h2>💡 & 📚</h2>
 
 <div>
