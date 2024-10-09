@@ -1,3 +1,4 @@
-<h1>안녕하세요!</h1>
-<p>백엔드 개발자 마현우입니다.</p>
-<p>효율적으로 살아가는 방법에 대해 늘 고민하고 있습니다!</p>
+<h1>Hi!</h1>
+<p>Backend Engineer</p>
+<p>Kotlin, Java, Spring Boot, MySQL, Redis, MongoDB, ...</p>
+<p>Contact me: <a href="mailto:hyeonwoo.ma.dev@gmail.com" target="_blank">hyeonwoo.ma.dev@gmail.com</a></p>
